@@ -10,8 +10,8 @@ An Italian insurance company operating primarily in the automotive market seeks 
 Develop a predictive model estimating churn probability within one year to enable proactive retention strategies. The strategic goal is to prioritize retention efforts on high-risk customers, optimizing campaign resources and maximizing customer lifetime value.
 
 ## 📁 Repository Structure
-- `ML_Churn_Project.ipynb`: The complete Python notebook containing data extraction, cleaning, feature engineering, and model training/evaluation.
-- `CRM_Analytics_Presentation.pdf`: Executive presentation detailing the business problem, insights, and actionable retention strategies.
+- `ML_Churn_Project_Contract_Level.ipynb`: The complete Python notebook containing data extraction, cleaning, feature engineering, and model training/evaluation.
+- `Predicting Churn in Italian Motor Insurance.pdf`: Executive presentation detailing the business problem, insights, and actionable retention strategies.
 
 > ⚠️ **Note:** Original datasets are not included in this repository to strictly comply with company privacy guidelines and Non-Disclosure Agreements (NDA).
 
